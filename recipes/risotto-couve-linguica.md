@@ -24,7 +24,7 @@ gantt
     tickInterval 5minute
 
     section Mise en place
-    Aqueça o caldo e mantenha aquecido : misenplace1, 0, 25m
+    Aqueça o caldo e mantenha aquecido : misenplace1, 0, 44m
     Debulhe a linguiça : misenplace2, 0, 10m
     Pique a cebola em cubos e a couve em tiras : misenplace3, after misenplace2, 10m
     Rale o parmesão : misenplace4, after misenplace3, 5m
