@@ -1,6 +1,8 @@
+# Guacamole
+
 Serve 2
 
-Ingredientes:
+## Ingredientes
 
 - Avocado: 2
 - Limão: 1/2
@@ -10,6 +12,8 @@ Ingredientes:
 - Pimenta dedo-de-moça: 1/2
 - Sal
 - Azeite
+
+## Modo de preparo
 
 ```mermaid
 gantt
