@@ -1,6 +1,6 @@
 # Sorvete de coco
 
-Serve 4 pessoas
+Serve 4
 
 ## Ingredientes
 
