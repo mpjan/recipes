@@ -1,5 +1,7 @@
 # Sorvete de baunilha
 
+Serve 4 pessoas
+
 ## Ingredientes
 
 Ingredientes:
@@ -13,6 +15,7 @@ Ingredientes:
 
 ## Modo de preparo
 
+```mermaid
 gantt
     title Sorvete de baunilha
     dateFormat m
@@ -30,3 +33,4 @@ gantt
     Coloque no congelador : process2, after process1, 60m
     Retire do congelador e bata novamente: process3, after process2, 10m
     Coloque novamente no congelador e bata mais duas vezes: process4, after process3, 140m
+```

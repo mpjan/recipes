@@ -11,6 +11,7 @@ Serve 4 pessoas
 
 ## Modo de preparo
 
+```mermaid
 gantt
     title Sorvete de Coco Cremoso
     dateFormat m
@@ -21,3 +22,4 @@ gantt
     Coloque no congelador: prep2, after prep1, 60m
     Retire do congelador e bata novamente para incorporar ar: prep3, after prep2, 5m
     Repita o processo de congelar e bater mais duas vezes: prep4, after prep3, 130m
+```
