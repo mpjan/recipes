@@ -6,7 +6,7 @@ Serve 4
 
 - Arroz arbório: 1 xícara
 - Linguiça serrana: 1 xícara (debulhada ou picada)
-- Cebola: 1/2 colher de sopa (picada)
+- Cebola: 1/2 (picada)
 - Vinho tinto seco: 1/2 xícara
 - Parmesão: 1/2 xícara (ralado)
 - Manteiga: 3 colheres de sopa

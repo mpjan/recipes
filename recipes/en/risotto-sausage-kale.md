@@ -6,7 +6,7 @@ Serves 4
 
 - Arborio rice: 1 cup
 - Italian sausage: 1 cup (crumbled or chopped)
-- Onion: 1/2 tablespoon (chopped)
+- Onion: 1/2 (chopped)
 - Dry red wine: 1/2 cup
 - Parmesan cheese: 1/2 cup (grated)
 - Butter: 3 tablespoons
