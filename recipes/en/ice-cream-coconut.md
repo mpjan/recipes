@@ -5,8 +5,8 @@ Serves 4
 ## Ingredients
 
 - Condensed milk: 1 can
-- Heavy cream: 1 can
-- Coconut milk: 100ml
+- Heavy cream: 1 can (300g)
+- Coconut milk: 120g
 - Shredded coconut: 100g
 
 ## Instructions

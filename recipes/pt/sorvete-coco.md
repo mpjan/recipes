@@ -5,8 +5,8 @@ Serve 4
 ## Ingredientes
 
 - Leite condensado: 1 lata
-- Creme de leite: 1 lata
-- Leite de coco: 100ml
+- Creme de leite: 1 lata (300g)
+- Leite de coco: 120g
 - Coco ralado: 100g
 
 ## Modo de preparo
